@@ -1,5 +1,5 @@
 # Xmind_Zen_Crack
-Xmind Zen本地破解脚本
+Xmind Zen本地破解脚本，暂时仅支持Linux和MAC系统。
 ## 说明
 本脚本仅作为学习使用，请勿用于任何商业用途。
 ## 功能简介
